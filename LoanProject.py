@@ -9,12 +9,12 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 import plotly.plotly as py
 import plotly.graph_objs as go
-import pandas as pd
-import base64
+#import pandas as pd
+#import base64
 ### calculator import
 import loans
 ### FOR TEST
-import numpy as np
+#import numpy as np
 
 app = dash.Dash()
 #deploy line

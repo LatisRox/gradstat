@@ -1,1 +1,1 @@
-web: gunicorn LoanProject:server
+web: gunicorn LoanProject:server --log-file -
